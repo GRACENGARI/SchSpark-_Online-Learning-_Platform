@@ -1,5 +1,5 @@
 # RAG-and-LANGCHAIN-Demo
-# Custom CBC Chatbot
+# SchSpark_Online_Learning  Chatbot
 
 ## Overview
 This repository contains a Streamlit-based chatbot powered by Google Gemini AI and FAISS vector search. The chatbot utilizes Retrieval-Augmented Generation (RAG) to answer user queries based on the content of a PDF document.
